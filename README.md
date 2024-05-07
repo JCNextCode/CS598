@@ -3,10 +3,6 @@
 - Team Members : Jae Cho : jaecho2@illinois.edu
 
 
-# GitHub 
-
-https://github.com/JCNextCode/CS598
-
 # Youtube Presentation
 
 https://youtu.be/MOvT7DeRfM8
