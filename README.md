@@ -1,11 +1,16 @@
-# Team Information 
-- Team Number 139
-- Team Members : Jae Cho : jaecho2@illinois.edu
+# CS 598 DLH Final Project Team 139
+#### Team Number 139
+#### Team Members : Jae Cho : jaecho2@illinois.edu
 
 
 # Youtube Presentation
 
 https://youtu.be/MOvT7DeRfM8
+
+# Overview
+
+In this project attempt was made to reproduce the paper "Benchmarking Deep Learning Architectures for Predicting Readmission to the ICU and Describing Patients-at-Risk".
+Approach is to use various models to benchmark accuracy and precision.  Pyhealth library was utilized to do much of the implementation.
 
 
 
