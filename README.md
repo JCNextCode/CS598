@@ -20,5 +20,5 @@ https://youtu.be/MOvT7DeRfM8
 
 Medical data is located in folder below
 
-
+tree/main/mimic-iii-demo
 
